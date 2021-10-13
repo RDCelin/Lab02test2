@@ -901,6 +901,7 @@ JOptionPane.showMessageDialog(null, "Ningun campo debe estar vacio");
     private void SalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SalirActionPerformed
      OttoBitIS.dispose();
      System.out.println("dolor");
+     System.out.println("dolor2");
     }//GEN-LAST:event_SalirActionPerformed
 
     private void RTransaccionButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RTransaccionButtonActionPerformed
